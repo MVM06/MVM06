@@ -2,11 +2,10 @@
 
 
 # 💫 About Me:
-I'm a software engineering student<br>I love to learn new concepts
 
 - 🔭 I’m currently working on a labirinth game
 - 🌱 I’m currently learning data structures and importing/exporting
-- ⚡ Fun fact: Love to code, play guitar and portuguese culture
+- ⚡ Fun fact: Love to code, play guitar and portuguese culture, I'm still a software engineering student
 
 
 # 💻 Tech Stack:
